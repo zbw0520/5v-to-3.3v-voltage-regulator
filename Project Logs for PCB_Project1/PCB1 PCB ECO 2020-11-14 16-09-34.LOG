@@ -1,5 +1,0 @@
-Change Component Footprint: Designator=R1 Old Footprint=0603P New Footprint=0805
-Change Component Footprint: Designator=R2 Old Footprint=0603P New Footprint=0805
-Change Component Footprint: Designator=DS1 Old Footprint=SMDLED New Footprint=LED0805
-Change Component Footprint: Designator=DS2 Old Footprint=SMDLED New Footprint=LED0805
-Added Room: Name=Sheet1
