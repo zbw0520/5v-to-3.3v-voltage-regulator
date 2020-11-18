@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: C:\Users\zhbw\Desktop\项目资料\摇摇棒工程\子工程\ams1117-3.3v\PCB1.PcbDoc
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance_poly|Scope=Board|Minimum=15.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance_via|Scope=Board|Minimum=6.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
