@@ -1,0 +1,6 @@
+Added Component: Designator=USB1(DIP-2p)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=5v Pin=USB1-1
+Added Pin To Net: NetName=GND Pin=USB1-5
+Added Member To Class: ClassName=Sheet1 Member=Component USB1 USB
+Added Room: Name=Sheet1
